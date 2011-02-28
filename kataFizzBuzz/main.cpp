@@ -76,8 +76,7 @@ int main()
     assert("Fizz", fizzBuzz(9));
     assert("Buzz", fizzBuzz(10));
     assert("FizzBuzz", fizzBuzz(15));
-	
-	return 0;
-
+    
+    return 0;
 }
 
